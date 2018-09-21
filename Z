@@ -1,0 +1,3 @@
+--FFXIV_A_Realm_Remade.lua
+local scriptTest = require("scripts.Zodiark)
+Zodiark.testFunction()
